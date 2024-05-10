@@ -1,0 +1,9 @@
+{
+  "name": "@gradio/client",
+  "version": "0.18.0",
+  "description": "Gradio API client",
+  "author": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT"
+}
