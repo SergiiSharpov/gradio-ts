@@ -1,0 +1,14 @@
+node_modules
+
+yarn.lock
+yarn-error.log
+
+package-lock.json
+npm-debug.log
+
+# Editor directories
+.idea
+.vscode
+
+# OS directories
+.DS_Store
