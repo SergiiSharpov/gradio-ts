@@ -5,5 +5,14 @@
   "author": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/eventsource": "^1.1.15",
+    "bufferutil": "^4.0.7",
+    "eventsource": "^2.0.2",
+    "msw": "^2.2.1",
+    "semiver": "^1.1.0",
+    "typescript": "^5.0.0",
+    "ws": "^8.13.0"
+  }
 }
